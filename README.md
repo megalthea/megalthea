@@ -11,7 +11,8 @@ I have experience working on programming projects using Python, C, Java, R, and 
 - 👯 I’m looking to collaborate on projects related to Data Science.
 - 🤔 I’m looking for help with getting started in Machine Learning.
 - 📫 How to reach me:
-  LinkedIn   
+  [LinkedIn](https://www.linkedin.com/in/meg-anacleto/)
+  [Facebook](https://www.facebook.com/meganacleto)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I have 5 cat siblings  (:smirk_cat:x5)
 
