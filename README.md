@@ -10,8 +10,8 @@ I have experience working on programming projects using Python, C, Java, R, and 
 - 🌱 I’m currently learning the theory behind Probability and Statistics and Survey Designs.
 - 👯 I’m looking to collaborate on projects related to Data Science.
 - 🤔 I’m looking for help with getting started in Machine Learning.
-- 📫 How to reach me:
-  [LinkedIn](https://www.linkedin.com/in/meg-anacleto/)
+- 📫 You can reach me via 
+  [LinkedIn](https://www.linkedin.com/in/meg-anacleto/) and 
   [Facebook](https://www.facebook.com/meganacleto)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I have 5 cat siblings  (:smirk_cat:x5)
