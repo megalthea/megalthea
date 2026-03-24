@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**megalthea/megalthea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! My name is Meg Althea Anacleto. I am currently a BS Statistics student at the University of the Philippines Los Baños.
 
-Here are some ideas to get you started:
+I want to excel (pun intended :smirk:) in Database Management :computer:, Data Visualization :chart_with_upwards_trend:, and Machine Learning :wrench:. Using these skills, I aspire to be a professional contributing to the field of Health Statistics :hospital: to solve real-world issues and improve the current system.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have experience working on programming projects using Python, C, Java, R, and SQLite. With statistical software such as R, RStudio, and Jamovi, I have performed data cleaning, statistical tests, and data visualization.
+
+- 🔭 I’m currently working on furthering my skills in R, SQL, and Python.
+- 🌱 I’m currently learning the theory behind Probability and Statistics and Survey Designs.
+- 👯 I’m looking to collaborate on projects related to Data Science.
+- 🤔 I’m looking for help with getting started in Machine Learning.
+- 📫 How to reach me:
+  LinkedIn   
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I have 5 cat siblings  (:smirk_cat:x5)
+
+
+
