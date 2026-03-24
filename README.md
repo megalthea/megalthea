@@ -14,7 +14,7 @@ I have experience working on programming projects using Python, C, Java, R, and 
   [LinkedIn](https://www.linkedin.com/in/meg-anacleto/) and 
   [Facebook](https://www.facebook.com/meganacleto)
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I have 5 cat siblings  (:smirk_cat:x5)
+- ⚡ Fun fact: I have 5 cat siblings  ( :smirk_cat: x5)
 
 
 
