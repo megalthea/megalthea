@@ -2,7 +2,7 @@
 
 Hello! My name is Meg Althea Anacleto. I am currently a BS Statistics student at the University of the Philippines Los Baños.
 
-I want to excel (pun intended :smirk:) in Database Management :computer:, Data Visualization :chart_with_upwards_trend:, and Machine Learning :wrench:. Using these skills, I aspire to be a professional contributing to the field of Health Statistics :hospital: to solve real-world issues and improve the current system.
+I want to excel (no pun intended :smirk:) in Database Management :computer:, Data Visualization :chart_with_upwards_trend:, and Machine Learning :wrench:. Using these skills, I aspire to be a professional contributing to the field of Health Statistics :hospital: to solve real-world issues and improve the current system.
 
 I have experience working on programming projects using Python, C, Java, R, and SQLite. With statistical software such as R, RStudio, and Jamovi, I have performed data cleaning, statistical tests, and data visualization.
 
